@@ -1,0 +1,40 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "poppins", sans-serif;
+}
+.header-bg {
+  background-image: url("images/header.png");
+  background-repeat: no-repeat;
+}
+.half-width {
+  width: 45%;
+  float: left;
+}
+.pink-clr {
+  color: #bb243e;
+  font-weight: 900;
+}
+
+.text h1 {
+  text-align: justify;
+  margin-top: 150px;
+  font-size: 50px;
+}
+.text p {
+  text-align: justify;
+}
+.text {
+  margin-left: 20%;
+}
+.pink-btn {
+  background-color: #bb243e;
+  padding: 15px 25px;
+  color: #ffffff;
+  text-transform: uppercase;
+  border-radius: 8px;
+  width: 150px;
+}
+.dream-bg {
+  background-image: url("images/biography.png");
+}
